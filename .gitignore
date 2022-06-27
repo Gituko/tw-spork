@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/tListing/dist
+/tListing/tmp
+
+# dependencies
+/tListing/node_modules
+/tListing/bower_components
+
+# misc
+/tListing/.sass-cache
+/tListing/connect.lock
+/tListing/coverage/*
+/tListing/libpeerconnection.log
+/tListing/npm-debug.log*
+/tListing/yarn-error.log
+/tListing/testem.log
+
+# ember-try
+/tListing/.node_modules.ember-try/
+/tListing/bower.json.ember-try
+/tListing/package.json.ember-try
