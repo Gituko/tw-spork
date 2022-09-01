@@ -1,2 +1,2 @@
-# Tailwind - spork
-tailwind practice repo
+# Tailwind and React - spork
+Tailwind and React practice repo
